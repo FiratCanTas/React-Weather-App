@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-    <a href="(https://react.dev/)">
+    <a href="https://github.com/FiratCanTas/React-Weather-App">
     <img src="https://static.wikia.nocookie.net/ipod/images/d/d6/Weather_iOS_15.png/revision/latest?cb=20220611140027" width="90" height="90">
   </a>
   <h3 align="center">Weather App</h3>
