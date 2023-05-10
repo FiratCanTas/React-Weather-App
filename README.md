@@ -9,7 +9,7 @@
 ![Downloads](https://img.shields.io/github/downloads/FiratCanTas/React-Weather-App/total) ![Contributors](https://img.shields.io/github/contributors/FiratCanTas/React-Weather-App?color=dark-green) ![Forks](https://img.shields.io/github/forks/FiratCanTas/React-Weather-App?style=social) ![Stargazers](https://img.shields.io/github/stars/FiratCanTas/React-Weather-App?style=social) ![Issues](https://img.shields.io/github/issues/FiratCanTas/React-Weather-App) ![License](https://img.shields.io/github/license/FiratCanTas/React-Weather-App) 
 
 ## About The Project
-<img src="src/assets/weather-app-interface.png" alt="app-interface" width="530" height="750"/>
+<img src="src/assets/weather-app-interface.png" alt="app-interface" width="530" height="780"/>
 This project brings the weather information according to the city information entered by the users. According to the location information received from the user, it contains detailed information such as temperature, humidity, and wind values in the target city, as well as summary information about the weather of that day. The application has a very simple and modern interface.
 
 ## Built With
