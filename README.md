@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="(https://react.dev/)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="90" height="85">
+    <img src="https://static.wikia.nocookie.net/ipod/images/d/d6/Weather_iOS_15.png/revision/latest?cb=20220611140027" width="90" height="90">
   </a>
   <h3 align="center">Weather App</h3>
 </p>
