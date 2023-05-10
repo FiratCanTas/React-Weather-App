@@ -10,7 +10,7 @@
 
 ## About The Project
 <img src="src/assets/weather-app-interface.png" alt="app-interface" width="530" height="750"/>
-This project brings the weather information according to the city information entered by the users. According to the location information received from the user, it contains detailed information such as temperature, humidity, wind values in the target city, as well as summary information about the weather of that day. The application has a very simple and modern interface.
+This project brings the weather information according to the city information entered by the users. According to the location information received from the user, it contains detailed information such as temperature, humidity, and wind values in the target city, as well as summary information about the weather of that day. The application has a very simple and modern interface.
 
 ## Built With
 
