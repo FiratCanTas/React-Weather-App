@@ -6,6 +6,7 @@
   <h3 align="center">Weather App</h3>
 </p>
 
+
 ![Downloads](https://img.shields.io/github/downloads/FiratCanTas/React-Weather-App/total) ![Contributors](https://img.shields.io/github/contributors/FiratCanTas/React-Weather-App?color=dark-green) ![Forks](https://img.shields.io/github/forks/FiratCanTas/React-Weather-App?style=social) ![Stargazers](https://img.shields.io/github/stars/FiratCanTas/React-Weather-App?style=social) ![Issues](https://img.shields.io/github/issues/FiratCanTas/React-Weather-App) ![License](https://img.shields.io/github/license/FiratCanTas/React-Weather-App) 
 
 ## About The Project
